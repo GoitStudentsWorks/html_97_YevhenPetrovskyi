@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/group-14-photo-school/",
+    "build": "vite build --base=/html_97_YevhenPetrovskyi/",
     "preview": "vite preview"
   },
   "devDependencies": {
